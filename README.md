@@ -59,4 +59,4 @@ Dark Night
 
 - **Sprint Retrospective:**
 
-- **Dier Notlar**: 
+- **Diğer Notlar**: 
