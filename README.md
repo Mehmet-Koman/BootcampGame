@@ -49,9 +49,12 @@ Dark Night
 
 - **Backlog düzeni ve Story seçimleri**: 
 
-- **Daily Scrum**: Daily Scrum toplantılarının daha düzgün olması için Discord ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantılarının daha düzgün olması için Discord ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Sprint 1.docx](https://github.com/Mehmet-Koman/BootcampGame/files/8645904/Daily.Scrum.Sprint.1.docx)
+
 
 - **Sprint board update**: Sprint board screenshotları:
+![Backlog 1](https://user-images.githubusercontent.com/104525151/167270956-a80bec2e-ff68-4cf2-9170-180b31dc4a81.jpg)
+
 
 - **Ürün Durumu**: Ekran Görüntüleri: 
 
