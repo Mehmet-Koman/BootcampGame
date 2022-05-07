@@ -7,7 +7,7 @@ The Asymmetric
 ## Takım Elemanları
 
 - Selin Su Demirkıran: Product Owner
-- Asude Hazal Pekek: Scrum Master
+- Asude Hazal Peker: Scrum Master
 - Mehmet Koman: Team Member/Developer
 - Elif Türk: Team Member/Developer
 - Fikri Tepretmez: Team Member/Developer
@@ -43,13 +43,13 @@ Dark Night
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint İçinde tamamlanması tahmin edilen puan**: 60 puan
+- **Sprint İçinde tamamlanması tahmin edilen puan**: 140 puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 140 puan ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: 
 
-- **Daily Scrum**: Daily Scrum toplantılarının daha düzgün olması için Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantılarının daha düzgün olması için Discord ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
 
 - **Sprint board update**: Sprint board screenshotları:
 
