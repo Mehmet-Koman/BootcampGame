@@ -35,7 +35,7 @@ Dark Night
 - Hikaye bazlı oyun severler
 - 16 yaş ve üzerine oyuncular
 
-## Product Backing URL
+## Product Backlog URL
 
 [Miro Backlog Board] https://miro.com/app/board/uXjVO3dPRjI=/
 
