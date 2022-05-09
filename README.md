@@ -69,4 +69,4 @@ Dark Night
 - **Sprint Retrospective:**
   Game Design için daha hızlı olunmasına karar verilmiştir. 
 
-- **Diğer Notlar**: --- 
+- **Diğer Notlar**: Daily Scrum Screenshots, 'Daily Scrum' başlığı altındaki dosyaya eklenmiştir.
