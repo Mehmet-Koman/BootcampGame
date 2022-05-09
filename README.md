@@ -56,10 +56,15 @@ Dark Night
 ![Backlog 1](https://user-images.githubusercontent.com/104525151/167270956-a80bec2e-ff68-4cf2-9170-180b31dc4a81.jpg)
 
 
-- **Ürün Durumu**: Ekran Görüntüleri: 
+- **Ürün Durumu**: Ekran Görüntüleri: https://www.hizliresim.com/ez2la1b   
+                                      https://www.hizliresim.com/nijah5b
+                                      https://www.hizliresim.com/mbie1sx
+                                      https://www.hizliresim.com/btx1qqu
 
-- **Sprint Review**: 
+- **Sprint Review**: Projenin HDRP seviyesine taşınmasına karar verildi. İlk sprint'e yetişmeyeceği için 2. sprint'te bu işlem yapılacak. 
+- Sprint Review katılımcıları: Mehmet Koman, Asude Peker, Elif Türk, Selin Su Demirkıran, Fikri Tepretmez
 
 - **Sprint Retrospective:**
+  Game Design için daha hızlı olunmasına karar verilmiştir. 
 
-- **Diğer Notlar**: 
+- **Diğer Notlar**: --- 
