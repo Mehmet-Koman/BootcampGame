@@ -58,10 +58,11 @@ Dark Night
 
 
 
-- **Ürün Durumu**: Ekran Görüntüleri: https://www.hizliresim.com/ez2la1b   
-                                      https://www.hizliresim.com/nijah5b
-                                      https://www.hizliresim.com/mbie1sx
-                                      https://www.hizliresim.com/btx1qqu
+- **Ürün Durumu**: Ekran Görüntüleri: ![image](https://user-images.githubusercontent.com/104525151/167484615-324e04e1-c455-4612-a8b9-ca3e4fcd8ae5.png)
+![image](https://user-images.githubusercontent.com/104525151/167484653-b4bfe9c6-2c94-4672-b685-ab85f8ae68e8.png)
+![image](https://user-images.githubusercontent.com/104525151/167484684-c4e81654-db09-4037-8f8e-dc105c6b2ff9.png)
+![image](https://user-images.githubusercontent.com/104525151/167484716-666ae042-3988-4af9-9fb1-51e8a4287f87.png)
+
 
 - **Sprint Review**: Projenin HDRP seviyesine taşınmasına karar verildi. İlk sprint'e yetişmeyeceği için 2. sprint'te bu işlem yapılacak. 
 - Sprint Review katılımcıları: Mehmet Koman, Asude Peker, Elif Türk, Selin Su Demirkıran, Fikri Tepretmez
@@ -70,3 +71,4 @@ Dark Night
   Game Design için daha hızlı olunmasına karar verilmiştir. 
 
 - **Diğer Notlar**: Daily Scrum Screenshots, 'Daily Scrum' başlığı altındaki dosyaya eklenmiştir.
+
